@@ -1,0 +1,22 @@
+{
+  "name": "ruuf-challenge",
+  "version": "1.0.0",
+  "description": "Ruuf senior frontend engineer challenge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ocarmora/ruuf-challenge.git"
+  },
+  "author": "Oscar Carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocarmora/ruuf-challenge/issues"
+  },
+  "homepage": "https://github.com/ocarmora/ruuf-challenge#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
